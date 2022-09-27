@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: valhrafnaz humble abode
+title: valhrafnaz nest
 description: >- # this means to ignore newlines until "baseurl:"
-  Be Gay, Do Crime!
+  professional medievalist, hobbyist rust dev and anarchy enjoyer
 domain: valhrafnaz.github.io
 baseurl: /
 url: https://valhrafnaz.github.io

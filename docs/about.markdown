@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey there! I am valhrafnaz (they/them), and I sometimes code or write papers! I am a philologist specialising in Old Norse literature and language by trade.
+Currently, I am getting my rust skills up-to-date so I can start working on some little game ideas in Godot 4 + Rust via GDNative.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Repo for the first (as of yet empty) project: [A Cold, Dark and very Gentle Place]: https://github.com/Valhrafnaz/ACDGP
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If I do some writing that does not involve my actual name, I'll be sure to post that here.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Anyways, y'all have a great day!
